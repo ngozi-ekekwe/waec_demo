@@ -43,6 +43,13 @@ button {
   background-color: #024e31;
 }
   
+ogunbiyi-button {
+  background-color: blue;
+}
+
+.git-atoyebi {
+	background-color: orange;
+}
 .gitButton{
 	background-color: green;
   color: white;
