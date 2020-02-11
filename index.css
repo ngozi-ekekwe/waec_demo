@@ -38,6 +38,11 @@ button {
   cursor: pointer;
   margin: auto;
 }
+
+.gitButton{
+	background-color: green;
+  color: white;
+}
 .git-button {
 	background-color: red;
 }
