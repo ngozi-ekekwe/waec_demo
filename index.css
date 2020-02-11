@@ -38,12 +38,13 @@ button {
   cursor: pointer;
   margin: auto;
 }
-<<<<<<< HEAD
+.git-button {
+	background-color: red;
+}
 
 .git-valentine{
   background-color: purple;
-=======
+}
 .git-farouq{
   background-color: pink;
->>>>>>> 76029b64b8d6f7b2da68f8fe7fc43cffd6f0183f
 }
