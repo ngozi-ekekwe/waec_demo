@@ -43,6 +43,11 @@ button {
   background-color: #024e31;
 }
   
+.gitButton{
+	background-color: green;
+  color: white;
+}
+
 .git-button {
 	background-color: red;
 }
