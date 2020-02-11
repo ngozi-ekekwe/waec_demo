@@ -45,11 +45,14 @@ button {
 }
 
 
-.git-blue{
+.cancel-button{
+  background-color: red;
 }
-.git-farouk{
 
+.git-blue{
+   background-color: red;
 }
+
 .git-button-oladele {
   background-color: #024e31;
 }
@@ -63,6 +66,7 @@ ogunbiyi-button {
 }
 .gitButton{
 	background-color: green;
+
   color: white;
 }
 
@@ -75,4 +79,7 @@ ogunbiyi-button {
 }
 .git-farouq{
   background-color: pink;
+
+
 }
+
