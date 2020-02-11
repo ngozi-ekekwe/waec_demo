@@ -40,6 +40,16 @@ button {
 }
 
 .gitButton{
-	 background-color: green;
+	background-color: green;
   color: white;
+}
+.git-button {
+	background-color: red;
+}
+
+.git-valentine{
+  background-color: purple;
+}
+.git-farouq{
+  background-color: pink;
 }
