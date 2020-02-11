@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+}
+
+.container {
+  margin: auto;
+  width: 800px;
+
+}
+
+input + input {
+  margin: 1rem 0;
+}
+
+input {
+  padding: 1rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.text-align-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: black;
+  color: white;
+  padding: 1rem 5rem;
+  border-radius: 5px;
+  width: 50%;
+  cursor: pointer;
+  margin: auto;
+}
