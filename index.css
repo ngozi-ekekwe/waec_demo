@@ -39,6 +39,10 @@ button {
   margin: auto;
 }
 
+.git-button-oladele {
+  background-color: #024e31;
+}
+  
 ogunbiyi-button {
   background-color: blue;
 }
@@ -50,6 +54,7 @@ ogunbiyi-button {
 	background-color: green;
   color: white;
 }
+
 .git-button {
 	background-color: red;
 }
