@@ -30,6 +30,16 @@ input {
 }
 
 button {
+  background-color: black;
+  color: white;
+  padding: 1rem 5rem;
+  border-radius: 5px;
+  width: 50%;
+  cursor: pointer;
+  margin: auto;
+}
+
+.git-button {
   background-color: #024e31;
   color: white;
   padding: 1rem 5rem;
