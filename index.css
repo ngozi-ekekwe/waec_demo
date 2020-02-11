@@ -39,6 +39,9 @@ button {
   margin: auto;
 }
 
+.git-atoyebi {
+	background-color: orange;
+}
 .gitButton{
 	background-color: green;
   color: white;
